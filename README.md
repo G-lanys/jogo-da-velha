@@ -1,5 +1,5 @@
 <h1 align="center">Tic_Tac_Toe | Jogo da Velha</h1>
-<div align="center"><img src="img/200px-Tic_Tac_Toe.png"><img src="img/bgVelha.png"><img src="img/200px-Tic_Tac_Toe.png"></div>
+<div align="center"><img src="img/bgVelha.png"></div>
 
 <p align="center">
  <a href="#computer-sobre">• Sobre o Jogo</a> | 
